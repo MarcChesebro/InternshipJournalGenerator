@@ -1,0 +1,58 @@
+Name: Marc Chesebro
+Company: Dematic Corp.
+Journal date: {}
+Journal period – FROM: {} TO: {}
+Total hours worked this period: 80
+
+Week of {}
+Monday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
+
+
+Tuesday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+Wednesday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+10:00 - Sprint update Meeting. Going over the currents goals of all the team members and their progress towards them.
+
+11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
+
+Thursday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+Friday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+10:00 - Sprint update Meeting. Going over the currents goals of all the team members and their progress towards them.
+
+11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
+
+Week of {}
+Monday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
+
+Tuesday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+Wednesday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+10:00 - Sprint update Meeting. Going over the currents goals of all the team members and their progress towards them.
+
+11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
+
+Thursday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+Friday, {} (8 hours)
+8:30 - Morning emails and getting caught up on the new commits in the VCS.
+
+10:00 - Sprint update Meeting. Going over the currents goals of all the team members and their progress towards them.
+
+11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
