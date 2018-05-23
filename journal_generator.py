@@ -1,6 +1,8 @@
 import datetime
 from dateutil import parser
+import re
 
+TAGS = ['bold', 'size']
 
 def load_template():
     with open('_template.txt', 'r') as content_file:
@@ -43,11 +45,36 @@ def format_journal(dates, template):
     return template.format(*datestrings)
 
 
+def parse_tags(template):
+    lines = [re.split(r'[<|>]', line) for line in template.splitlines()]
+    for line in lines:
+        print(line)
+
+
+    return lines
+
+
+def docx_conversion(journal_lines):
+    # not too sure how this should look
+    for line in journal_lines:
+        for e in line:
+            if e in TAGS:
+                # add to doc with format stoping at ('/' + TAG)
+                pass
+            else:
+                # if not in tags, add to document unformated
+                pass
+
+
 def generate_journal(date):
     template = load_template()
     dates = create_date_list(date)
     file_name = '{}-InternshipJournal-MarcChesebro.txt'.format(date.strftime("%m-%d-%Y"))
-    write_file(file_name, format_journal(dates, template))
+    journal_string = format_journal(dates, template)
+    journal_lines = parse_tags(journal_string)
+    docx_conversion(journal_lines)
+
+    #write_file(file_name, format_journal(dates, template))
 
 
 if __name__ == '__main__':

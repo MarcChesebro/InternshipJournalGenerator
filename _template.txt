@@ -1,10 +1,10 @@
-Name: Marc Chesebro
-Company: Dematic Corp.
-Journal date: {}
-Journal period – FROM: {} TO: {}
-Total hours worked this period: 80
+<bold>Name:</bold> Marc Chesebro
+<bold>Company:</bold> Dematic Corp.
+<bold>Journal date:</bold> {}
+<bold>Journal period</bold> - FROM: {} TO: {}
+<bold>Total hours worked this period:</bold> 80
 
-Week of {}
+<size>Week of {}<size>
 Monday, {} (8 hours)
 8:30 - Morning emails and getting caught up on the new commits in the VCS.
 
