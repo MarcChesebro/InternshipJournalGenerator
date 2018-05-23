@@ -1,58 +1,28 @@
-<bold>Name:</bold> Marc Chesebro
-<bold>Company:</bold> Dematic Corp.
+<bold>Name:</bold> NAME
+<bold>Company:</bold> COMPANY
 <bold>Journal date:</bold> {}
 <bold>Journal period</bold> - FROM: {} TO: {}
 <bold>Total hours worked this period:</bold> 80
 
-<size>Week of {}<size>
-Monday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
+<bold><size>Week of {}</size></bold>
+<bold>Monday, {} (8 hours)</bold>
 
-11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
+<bold>Tuesday, {} (8 hours)</bold>
 
+<bold>Wednesday, {} (8 hours)</bold>
 
-Tuesday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
+<bold>Thursday, {} (8 hours)</bold>
 
-Wednesday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
+<bold>Friday, {} (8 hours)</bold>
 
-10:00 - Sprint update Meeting. Going over the currents goals of all the team members and their progress towards them.
+<bold><size>Week of {}</size></bold>
+<bold>Monday, {} (8 hours)</bold>
 
-11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
+<bold>Tuesday, {} (8 hours)</bold>
 
-Thursday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
+<bold>Wednesday, {} (8 hours)</bold>
 
-Friday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
+<bold>Thursday, {} (8 hours)</bold>
 
-10:00 - Sprint update Meeting. Going over the currents goals of all the team members and their progress towards them.
+<bold>Friday, {} (8 hours)</bold>
 
-11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
-
-Week of {}
-Monday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
-
-11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
-
-Tuesday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
-
-Wednesday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
-
-10:00 - Sprint update Meeting. Going over the currents goals of all the team members and their progress towards them.
-
-11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
-
-Thursday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
-
-Friday, {} (8 hours)
-8:30 - Morning emails and getting caught up on the new commits in the VCS.
-
-10:00 - Sprint update Meeting. Going over the currents goals of all the team members and their progress towards them.
-
-11:30 - Stand-up meeting with UK team on concepting engine. Discussing issues and development on both sides.
